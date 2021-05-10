@@ -15,3 +15,5 @@ Intro till TypeScript: https://scrimba.com/learn/intrototypescript
 ## Inspelningar
 
 Förmiddag: https://handelsakademinse.sharepoint.com/sites/FED20GB/Delade%20dokument/Arbetsmetodik%20f%C3%B6r%20utvecklare/Recordings/M%C3%B6te%20i%20_07%20Arbetsmetodik%20f%C3%B6r%20utvecklare_-20210510_091209-M%C3%B6tesinspelning.mp4?web=1
+
+Eftermiddag: https://handelsakademinse.sharepoint.com/sites/FED20GB/Delade%20dokument/Arbetsmetodik%20f%C3%B6r%20utvecklare/Recordings/M%C3%B6te%20i%20_07%20Arbetsmetodik%20f%C3%B6r%20utvecklare_-20210510_131547-M%C3%B6tesinspelning.mp4?web=1
