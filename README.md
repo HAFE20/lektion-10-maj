@@ -2,6 +2,8 @@
 
 ## Övningar
 
+Split the nota: https://github.com/zocom-christoffer-wallenberg/split-the-nota
+
 ## Artiklar
 
 Typescript dokumentation: https://www.typescriptlang.org/
